@@ -1,2 +1,0 @@
-# DataScientist
-Repo for class
